@@ -1,0 +1,17 @@
+/*
+Theme Name: Code Fish
+Theme URI: https://www.codefish.com
+Author: James Foley
+Author URI: https://www.jimbits.com
+Description:  Code Fish Editor custom WordPress site for instructional purposes.
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: codefish
+Tags: Use it.....enjoy it......share it
+*/
+
+body{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+}
